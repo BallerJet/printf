@@ -1,2 +1,2 @@
 # printf
-Printf team proje
+Printf team project
