@@ -1,4 +1,4 @@
-#include "main.h"
+#iclude "main.h"
 
 void print_buffer(char buffer[], int *buff_ind);
 
